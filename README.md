@@ -160,6 +160,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kanaksharmma/DSA/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanaksharmma/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kanaksharmma/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search Tree
@@ -189,4 +190,12 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanaksharmma/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kanaksharmma/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kanaksharmma/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
