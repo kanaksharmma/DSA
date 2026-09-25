@@ -164,6 +164,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanaksharmma/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kanaksharmma/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanaksharmma/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanaksharmma/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kanaksharmma/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kanaksharmma/DSA/tree/master/0206-reverse-linked-list) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanaksharmma/DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanaksharmma/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kanaksharmma/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kanaksharmma/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
